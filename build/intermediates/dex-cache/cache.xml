@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/open_mac/mnt/SharePosition/app/libs/baidumapapi_map_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="930064f0a91ff20ceb8dd4504b7dadec5aabea82">
+        <dex dex="/Users/open_mac/mnt/SharePosition/app/build/intermediates/pre-dexed/debug/baidumapapi_map_v4_1_1_bb799eee8c75a1217e0460c7763daa68898f855c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/open_mac/mnt/SharePosition/app/libs/locSDK_6.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="/Users/open_mac/mnt/SharePosition/app/build/intermediates/pre-dexed/debug/locSDK_6.13_6f6be46ed91cdd534f825c4f0923dc8ac529ad9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/open_mac/mnt/SharePosition/app/libs/baidumapapi_base_v4_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="00cd7d6a741c6a922c9cf7b0db52a357ebf12cdb">
+        <dex dex="/Users/open_mac/mnt/SharePosition/app/build/intermediates/pre-dexed/debug/baidumapapi_base_v4_1_1_fafb47449d470d93659dad7230aad2162ea2b942.jar" />
+    </item>
+
+</items>
